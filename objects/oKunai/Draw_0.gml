@@ -1,3 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(abs(x_vel) < 0.5) x_vel = 0
+
+draw_self()
+draw_line_width(x,y,oPlayer.x,oPlayer.y,2)

@@ -31,13 +31,15 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.4.0.84",
+    "IDEVersion": "2023.8.0.98",
   },
   "resources": [
     {"id":{"name":"oPlatform","path":"objects/oPlatform/oPlatform.yy",},},
+    {"id":{"name":"sKunai","path":"sprites/sKunai/sKunai.yy",},},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"Collision","path":"scripts/Collision/Collision.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
+    {"id":{"name":"oKunai","path":"objects/oKunai/oKunai.yy",},},
     {"id":{"name":"spr_Platform","path":"sprites/spr_Platform/spr_Platform.yy",},},
     {"id":{"name":"spr_Player","path":"sprites/spr_Player/spr_Player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
@@ -45,6 +47,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],
