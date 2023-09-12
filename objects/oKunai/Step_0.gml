@@ -10,3 +10,14 @@ if(returning)
 {
 direction = point_direction(x,y,oPlayer.x,oPlayer.y)
 }
+
+if(global.hitstop > 0 )
+{
+	global.time = 0
+	global.hitstop -= 1
+}
+else{
+	
+	global.time = 1	
+}
+

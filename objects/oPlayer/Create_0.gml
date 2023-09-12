@@ -1,9 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 global.time = 1
-
+global.hitstop = 0
 rotation = 0
-kunaiCooldown = room_speed
+kunaiCooldown = 30
 kunaiTimer = kunaiCooldown
 kunaiSpd = 30
 kunaiOut = false
@@ -18,7 +18,7 @@ jumpForce = 20
 spd = 0.5
 maxXSpd = 15
 maxYSpd = 30
-wallslideSpd = 3
+wallslideSpd = 6
 enum STATE
 {
 	CLING,

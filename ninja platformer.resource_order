@@ -17,10 +17,16 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"oGame","order":4,"path":"objects/oGame/oGame.yy",},
+    {"name":"Particle","order":1,"path":"scripts/Particle/Particle.yy",},
     {"name":"sKunai","order":2,"path":"sprites/sKunai/sKunai.yy",},
+    {"name":"jump","order":1,"path":"sounds/jump/jump.yy",},
     {"name":"oCamera","order":2,"path":"objects/oCamera/oCamera.yy",},
+    {"name":"soundThrow","order":3,"path":"sounds/soundThrow/soundThrow.yy",},
+    {"name":"hooksound","order":2,"path":"sounds/hooksound/hooksound.yy",},
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
     {"name":"oKunai","order":3,"path":"objects/oKunai/oKunai.yy",},
+    {"name":"sSmoke","order":3,"path":"sprites/sSmoke/sSmoke.yy",},
     {"name":"spr_Player","order":1,"path":"sprites/spr_Player/spr_Player.yy",},
   ],
 }
