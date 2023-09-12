@@ -3,3 +3,4 @@
 speed = 0
 oPlayer.kunaiConnected = true
 
+//global.time = 0

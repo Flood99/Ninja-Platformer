@@ -55,7 +55,7 @@ x_vel = 0
 }else
 
 {
-x+= x_vel
+x+= x_vel * global.time
 }
 
 
@@ -71,7 +71,7 @@ y_vel = 0
 }else
 
 {
-y+= y_vel
+y+= y_vel * global.time
 }
 
 

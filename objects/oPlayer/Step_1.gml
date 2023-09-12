@@ -35,14 +35,14 @@ if(hInput = 0 || abs(x_vel) > maxXSpd)
 {
 	var _friction_applied = sign(x_vel) * frictionForce;
 	
-	x_vel -= _friction_applied
+	x_vel -= _friction_applied * global.time
 	
 	
 }
 
 if(state = STATE.GROUNDED && _jump)
 {
-	y_vel = -jumpForce
+	y_vel = -jumpForce * global.time
 	
 }
 if(state != STATE.GROUNDED && _jump)
@@ -51,8 +51,8 @@ if(state != STATE.GROUNDED && _jump)
 	if(check_collision(-1,0))
 	{
 		_jumpDir = 1
-		y_vel = -jumpForce
-		x_vel = _jumpDir * wallJumpSpd
+		y_vel = -jumpForce * global.time
+		x_vel = _jumpDir * wallJumpSpd * global.time
 		state = STATE.FALLING
 	}
 	
@@ -60,8 +60,8 @@ if(state != STATE.GROUNDED && _jump)
 	if(check_collision(1,0))
 	{
 		_jumpDir = -1
-		y_vel = -jumpForce
-		x_vel = _jumpDir * wallJumpSpd
+		y_vel = -jumpForce * global.time
+		x_vel = _jumpDir * wallJumpSpd * global.time
 		state = STATE.FALLING
 	}
 		
@@ -73,16 +73,16 @@ if(state != STATE.GROUNDED && _jump)
 
 
 //acceleration and max speed
-x_vel += hInput * spd;
+x_vel += hInput * spd * global.time;
 
 y_vel = clamp(y_vel,-maxYSpd,maxYSpd)
 
 //states
 if(state = STATE.FALLING)
 {
-y_vel += grav 
+y_vel += grav * global.time
 }
 if(state = STATE.CLING)
 {
-y_vel = wallslideSpd
+y_vel = wallslideSpd * global.time
 }

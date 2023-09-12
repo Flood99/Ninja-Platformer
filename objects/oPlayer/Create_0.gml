@@ -1,5 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
+global.time = 1
+
+rotation = 0
 kunaiCooldown = room_speed
 kunaiTimer = kunaiCooldown
 kunaiSpd = 30
