@@ -8,7 +8,12 @@ kunaiTimer = kunaiCooldown
 kunaiSpd = 30
 kunaiOut = false
 kunaiConnected = false
-wallJumpSpd = 5
+
+xScale = 1
+yScale = 1
+
+
+
 frictionForce = 0.9
 grounded = true
 grav = 1
@@ -19,6 +24,10 @@ spd = 0.5
 maxXSpd = 15
 maxYSpd = 30
 wallslideSpd = 6
+wallJumpSpd = 5
+
+
+
 enum STATE
 {
 	CLING,

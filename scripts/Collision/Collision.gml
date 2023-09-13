@@ -9,3 +9,19 @@ function check_collision(_move_x, _move_y)
 		return true;
 	}
 }
+function YVelocity()
+{
+	if(place_meeting(x,y+y_vel,oPlatform))
+	{
+		while !place_meeting(x,y+sign(y_vel),oPlatform)
+		{
+			y+=sign(y_vel)
+		}	
+	y_vel = 0
+
+	}else
+
+	{
+	y+= y_vel * global.time
+	}
+}	

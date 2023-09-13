@@ -8,4 +8,3 @@ if(oPlayer.kunaiConnected = false)
 	global.hitstop = 15
 }
 oPlayer.kunaiConnected = true
-fire

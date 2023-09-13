@@ -56,6 +56,8 @@ if(state = STATE.GROUNDED && _jump)
 	y_vel = -jumpForce * global.time
 	audio_play_sound(jump,1,false)
 	CreateSmoke(5,0,180,0,8)
+	TweenFire(self,EaseInOutBounce,TWEEN_MODE_BOUNCE,false,0,3,"xScale",1,0.6)
+	TweenFire(self,EaseInOutBounce,TWEEN_MODE_BOUNCE,false,0,3,"yScale",1,1.7)
 	
 	
 }
@@ -69,6 +71,8 @@ if(state != STATE.GROUNDED && _jump)
 		x_vel = _jumpDir * wallJumpSpd * global.time
 		state = STATE.FALLING
 		audio_play_sound(jump,1,false)
+		
+	
 		
 	}
 	
