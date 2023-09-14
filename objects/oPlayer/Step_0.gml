@@ -47,9 +47,9 @@ if(mouse_check_button_pressed(mb_left) && kunaiOut = false && kunaiTimer <= 0 &&
 
 
 //if we move into a wall next frame move one pixel forward until unable
-if(place_meeting(x+x_vel,y,oPlatform))
+if(place_meeting(x+x_vel,y,oSolid))
 {
-	while !place_meeting(x+sign(x_vel),y,oPlatform)
+	while !place_meeting(x+sign(x_vel),y,oSolid)
 	{
 		x+=sign(x_vel)
 	}	

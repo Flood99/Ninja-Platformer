@@ -3,7 +3,7 @@
 function check_collision(_move_x, _move_y) 
 {
 	
-	if (place_meeting(x + _move_x, y + _move_y, oPlatform))
+	if (place_meeting(x + _move_x, y + _move_y, oSolid))
 	{
 		// If there was an object collision, return true, and end the function
 		return true;
@@ -11,9 +11,9 @@ function check_collision(_move_x, _move_y)
 }
 function YVelocity()
 {
-	if(place_meeting(x,y+y_vel,oPlatform))
+	if(place_meeting(x,y+y_vel,oSolid))
 	{
-		while !place_meeting(x,y+sign(y_vel),oPlatform)
+		while !place_meeting(x,y+sign(y_vel),oSolid)
 		{
 			y+=sign(y_vel)
 		}	

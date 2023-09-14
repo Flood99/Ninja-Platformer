@@ -19,7 +19,7 @@ function CheckAnimation(animation){
 function SmokeBombWin()
 {
 	with(oPlayer){
-		CreateSmoke(200,30,150,0,5,global.partSmoke2)
+		CreateSmoke(70,0,180,0,5,global.partSmoke2)
 		audio_play_sound(SmokeBomb,1,false)
 		alpha = 0
 	}
@@ -28,7 +28,7 @@ function SmokeBombSpawn()
 {
 	with(global.StartPoint)
 	{
-		CreateSmoke(100,30,150,0,5,global.partSmoke2)
+		CreateSmoke(70,0,180,0,5,global.partSmoke2)
 		audio_play_sound(SmokeBomb,1,false)
 		oPlayer.alpha = 1
 		oPlayer.x = x
