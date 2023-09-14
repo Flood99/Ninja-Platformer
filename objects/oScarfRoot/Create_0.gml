@@ -4,7 +4,7 @@
 maxDist  = 8
 xto = oPlayer.x 
 yto = oPlayer.y
-scarfPartCount = 14
+scarfPartCount = 140
 
 
 
