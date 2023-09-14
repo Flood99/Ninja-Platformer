@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+
 var _mouseDir = point_direction(x,y,mouse_x,mouse_y)
 
 
@@ -26,7 +27,7 @@ if(mouse_check_button_pressed(mb_left) && kunaiConnected)
 
 
 //spawn kunai on click
-if(mouse_check_button_pressed(mb_left) && kunaiOut = false && kunaiTimer <= 0)
+if(mouse_check_button_pressed(mb_left) && kunaiOut = false && kunaiTimer <= 0 && hook = true)
 {
 	var kunai =	instance_create_layer(x,y,"Behind",oKunai)
 	with(kunai)

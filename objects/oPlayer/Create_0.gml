@@ -1,5 +1,11 @@
 /// @description Insert description here
 // You can write your code in this editor
+x = global.StartPoint.x
+y = global.StartPoint.y
+
+dead = false
+move = true
+hook = true
 global.time = 1
 global.hitstop = 0
 rotation = 0
@@ -11,8 +17,10 @@ kunaiConnected = false
 
 xScale = 1
 yScale = 1
+alpha = 1
 
-
+xprev = 0
+yprev = 0
 
 frictionForce = 0.9
 grounded = true

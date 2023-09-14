@@ -1,8 +1,13 @@
 /// @description Insert description here
 // You can write your code in this editor
-var _jump = keyboard_check_pressed(ord("W"))||keyboard_check_pressed(vk_space) 
+
+ var _jump = keyboard_check_pressed(ord("W"))||keyboard_check_pressed(vk_space) 
 
 var _jumpDir	
+
+if (xprev != xprevious) xprev = xprevious
+if (yprev != yprevious)  yprev = yprevious 
+
 
 
 
@@ -15,8 +20,8 @@ if(check_collision(0,1))
 	state = STATE.GROUNDED
 	y_vel = 0
 	
-	if (x_vel >= maxXSpd)  CreateSmoke(1,90,160,-15,15)
-	if (x_vel <= -maxXSpd)  CreateSmoke(1,0,80,15,15)
+	if (x_vel >= maxXSpd)  CreateSmoke(1,90,160,-15,15,global.partSmoke)
+	if (x_vel <= -maxXSpd)  CreateSmoke(1,0,80,15,15,global.partSmoke)
 	
 	
 
@@ -39,7 +44,9 @@ else
 
 
 //get input
-hInput = keyboard_check(ord("D")) - keyboard_check(ord("A"));
+if(move = true){
+ hInput = keyboard_check(ord("D")) - keyboard_check(ord("A"));
+}else hInput = 0
 
 //apply basic friction when not pressing buttons
 if(hInput = 0 || abs(x_vel) > maxXSpd)
@@ -50,12 +57,12 @@ if(hInput = 0 || abs(x_vel) > maxXSpd)
 	
 	
 }
-
-if(state = STATE.GROUNDED && _jump)
+//jumping
+if(state = STATE.GROUNDED && _jump && move)
 {
 	y_vel = -jumpForce * global.time
 	audio_play_sound(jump,1,false)
-	CreateSmoke(5,0,180,0,8)
+	CreateSmoke(5,0,180,0,8,global.partSmoke)
 	TweenFire(self,EaseInOutBounce,TWEEN_MODE_BOUNCE,false,0,3,"xScale",1,0.6)
 	TweenFire(self,EaseInOutBounce,TWEEN_MODE_BOUNCE,false,0,3,"yScale",1,1.7)
 	
@@ -64,7 +71,7 @@ if(state = STATE.GROUNDED && _jump)
 if(state != STATE.GROUNDED && _jump)
 {
 	//walljump by adding jumpforce to y vel and maxing out horizontal speed
-	if(check_collision(-1,0))
+	if(check_collision(-1,0) && move)
 	{
 		_jumpDir = 1
 		y_vel = -jumpForce * global.time
@@ -77,7 +84,7 @@ if(state != STATE.GROUNDED && _jump)
 	}
 	
 	
-	if(check_collision(1,0))
+	if(check_collision(1,0) && move)
 	{
 		_jumpDir = -1
 		y_vel = -jumpForce * global.time
@@ -94,7 +101,7 @@ if(state != STATE.GROUNDED && _jump)
 
 
 //acceleration and max speed
-x_vel += hInput * spd * global.time;
+  x_vel += hInput * spd * global.time;
 //decrease jump height when space in released
 if keyboard_check_released(vk_space) && y_vel<0
 {
@@ -113,7 +120,14 @@ if(state = STATE.FALLING)
 if(state = STATE.CLING)
 {
 	y_vel = wallslideSpd * global.time
-	if(check_collision(-1,0)) CreateSmoke(2,45,90,-15,0)
-	if(check_collision(1,0)) CreateSmoke(2,90,135,15,0)
+	if(check_collision(-1,0)) CreateSmoke(2,45,90,-15,0,global.partSmoke)
+	if(check_collision(1,0)) CreateSmoke(2,90,135,15,0,global.partSmoke)
+}
+if(state = STATE.GROUNDED)
+{
+ if x_vel > 0 xScale = 1
+ if x_vel < 0 xScale = -1
+
+
 }
 

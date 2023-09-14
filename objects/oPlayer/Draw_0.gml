@@ -12,6 +12,6 @@ if (state != STATE.GROUNDED && !_touchingWallRight && !_touchingWallLeft && glob
 
 
 
-draw_sprite_ext(spr_Player,1,x,y,xScale,yScale,rotation,c_white,1)
+draw_sprite_ext(spr_Player,1,x,y,xScale,yScale,rotation,c_white,alpha)
 
 

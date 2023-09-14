@@ -21,3 +21,4 @@ else{
 	global.time = 1	
 }
 
+if oPlayer.hook = false instance_destroy()
