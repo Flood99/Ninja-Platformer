@@ -11,5 +11,6 @@ if (!dead)
 	alarm[0] = 60
 	CreateSmoke(40,0,359,0,0,global.partSmoke2)
 	audio_play_sound(Death,1,false)
+	oCamera.Shake = true
 
 }

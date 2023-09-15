@@ -31,7 +31,7 @@ function TriggerGate(_trigger)
 			if trigger = _trigger
 			{
 				triggered = true
-				TweenEasyRotate(0,image_angle+irandom_range(30,45),0,irandom_range(20,10),EaseInOutBounce,TWEEN_MODE_PATROL)
+				
 			
 			}
 		
