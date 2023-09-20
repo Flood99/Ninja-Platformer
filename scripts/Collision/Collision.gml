@@ -9,6 +9,15 @@ function check_collision(_move_x, _move_y)
 		return true;
 	}
 }
+function check_collision_With(_move_x, _move_y,_obj) 
+{
+	
+	if (place_meeting(x + _move_x, y + _move_y, _obj))
+	{
+		// If there was an object collision, return true, and end the function
+		return true;
+	}
+}
 function YVelocity()
 {
 	if(place_meeting(x,y+y_vel,oSolid))

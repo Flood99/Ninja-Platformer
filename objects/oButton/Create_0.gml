@@ -3,4 +3,5 @@
 
 trigger = 1
 pushed = false
+held = false
 

@@ -1,0 +1,833 @@
+You are using YYP Maker v1.1.5, released in 14-08-2022
+
+
+
+[19-09-2023 19:39:33] Initialized GameMaker Project: Ninja-Platformer.yyp
+[19-09-2023 19:39:33] Found datafile: Sprite-000y.aseprite
+[19-09-2023 19:39:33] Found datafile: Sprite-0005.aseprite
+[19-09-2023 19:39:33] Found datafile: Sprite-0004.aseprite
+[19-09-2023 19:39:33] Found datafile: Sprite-0003.aseprite
+[19-09-2023 19:39:33] Found datafile: Sprite-0001.aseprite
+[19-09-2023 19:39:33] Found datafile: sPlayer.png
+[19-09-2023 19:39:33] Found datafile: spike.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/animcurves
+[19-09-2023 19:39:33] Checking EaseMidSlow
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/animcurves/EaseMidSlow
+[19-09-2023 19:39:33] Checking EaseHeartbeat
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/animcurves/EaseHeartbeat
+[19-09-2023 19:39:33] Checking EaseFastToSlow
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/animcurves/EaseFastToSlow
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/animcurves/EaseFastToSlow
+[19-09-2023 19:39:33] Checking EaseFastToSlow.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/animcurves/EaseFastToSlow/EaseFastToSlow.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/animcurves/EaseFastToSlow/EaseFastToSlow.yy
+[19-09-2023 19:39:33] Par: "folders/TweenGMX/User/Curves" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/animcurves/EaseFastToSlow/EaseFastToSlow.yy"
+[19-09-2023 19:39:33] Found AnimCurve: EaseFastToSlow
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/animcurves/EaseHeartbeat
+[19-09-2023 19:39:33] Checking EaseHeartbeat.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/animcurves/EaseHeartbeat/EaseHeartbeat.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/animcurves/EaseHeartbeat/EaseHeartbeat.yy
+[19-09-2023 19:39:33] Par: "folders/TweenGMX/User/Curves" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/animcurves/EaseHeartbeat/EaseHeartbeat.yy"
+[19-09-2023 19:39:33] Found AnimCurve: EaseHeartbeat
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/animcurves/EaseMidSlow
+[19-09-2023 19:39:33] Checking EaseMidSlow.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/animcurves/EaseMidSlow/EaseMidSlow.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/animcurves/EaseMidSlow/EaseMidSlow.yy
+[19-09-2023 19:39:33] Par: "folders/TweenGMX/User/Curves" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/animcurves/EaseMidSlow/EaseMidSlow.yy"
+[19-09-2023 19:39:33] Found AnimCurve: EaseMidSlow
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/extensions
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/fonts
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/notes
+[19-09-2023 19:39:33] Checking TGMX_Update_Log
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/notes/TGMX_Update_Log
+[19-09-2023 19:39:33] Checking TGMX_Terms_of_Use
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/notes/TGMX_Terms_of_Use
+[19-09-2023 19:39:33] Checking TGMX_Documentation
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/notes/TGMX_Documentation
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/notes/TGMX_Documentation
+[19-09-2023 19:39:33] Checking TGMX_Documentation.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/notes/TGMX_Documentation/TGMX_Documentation.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/notes/TGMX_Documentation/TGMX_Documentation.yy
+[19-09-2023 19:39:33] Par: "folders/TweenGMX/Docs" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/notes/TGMX_Documentation/TGMX_Documentation.yy"
+[19-09-2023 19:39:33] Found Note: TGMX_Documentation
+[19-09-2023 19:39:33] Checking TGMX_Documentation.txt
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/notes/TGMX_Terms_of_Use
+[19-09-2023 19:39:33] Checking TGMX_Terms_of_Use.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/notes/TGMX_Terms_of_Use/TGMX_Terms_of_Use.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/notes/TGMX_Terms_of_Use/TGMX_Terms_of_Use.yy
+[19-09-2023 19:39:33] Par: "folders/TweenGMX/Docs" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/notes/TGMX_Terms_of_Use/TGMX_Terms_of_Use.yy"
+[19-09-2023 19:39:33] Found Note: TGMX_Terms_of_Use
+[19-09-2023 19:39:33] Checking TGMX_Terms_of_Use.txt
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/notes/TGMX_Update_Log
+[19-09-2023 19:39:33] Checking TGMX_Update_Log.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/notes/TGMX_Update_Log/TGMX_Update_Log.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/notes/TGMX_Update_Log/TGMX_Update_Log.yy
+[19-09-2023 19:39:33] Par: "folders/TweenGMX/Docs" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/notes/TGMX_Update_Log/TGMX_Update_Log.yy"
+[19-09-2023 19:39:33] Found Note: TGMX_Update_Log
+[19-09-2023 19:39:33] Checking TGMX_Update_Log.txt
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects
+[19-09-2023 19:39:33] Checking o_SharedTweener
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/o_SharedTweener
+[19-09-2023 19:39:33] Checking oStart
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oStart
+[19-09-2023 19:39:33] Checking oSpikeShooterRight
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oSpikeShooterRight
+[19-09-2023 19:39:33] Checking oSpikeProj
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oSpikeProj
+[19-09-2023 19:39:33] Checking oSpike0
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oSpike0
+[19-09-2023 19:39:33] Checking oSolid
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oSolid
+[19-09-2023 19:39:33] Checking oScarfRoot
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oScarfRoot
+[19-09-2023 19:39:33] Checking oScarfPart
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oScarfPart
+[19-09-2023 19:39:33] Checking oPlayer
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oPlayer
+[19-09-2023 19:39:33] Checking oPlatform
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oPlatform
+[19-09-2023 19:39:33] Checking oKunai
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oKunai
+[19-09-2023 19:39:33] Checking oGate
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oGate
+[19-09-2023 19:39:33] Checking oGame
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oGame
+[19-09-2023 19:39:33] Checking oDoor
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oDoor
+[19-09-2023 19:39:33] Checking oCamera
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oCamera
+[19-09-2023 19:39:33] Checking oButton
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oButton
+[19-09-2023 19:39:33] Checking oBlood
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oBlood
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oBlood
+[19-09-2023 19:39:33] Checking Step_0.gml
+[19-09-2023 19:39:33] Checking oBlood.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oBlood/oBlood.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oBlood/oBlood.yy
+[19-09-2023 19:39:33] Par: "folders/Objects" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oBlood/oBlood.yy"
+[19-09-2023 19:39:33] Found Object: oBlood
+[19-09-2023 19:39:33] Checking Create_0.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oButton
+[19-09-2023 19:39:33] Checking Step_1.gml
+[19-09-2023 19:39:33] Checking oButton.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oButton/oButton.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oButton/oButton.yy
+[19-09-2023 19:39:33] Par: "folders/Objects" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oButton/oButton.yy"
+[19-09-2023 19:39:33] Found Object: oButton
+[19-09-2023 19:39:33] Checking Create_0.gml
+[19-09-2023 19:39:33] Checking Collision_oPlayer.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oCamera
+[19-09-2023 19:39:33] Checking Step_0.gml
+[19-09-2023 19:39:33] Checking Other_4.gml
+[19-09-2023 19:39:33] Checking oCamera.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oCamera/oCamera.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oCamera/oCamera.yy
+[19-09-2023 19:39:33] Par: "folders/Objects" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oCamera/oCamera.yy"
+[19-09-2023 19:39:33] Found Object: oCamera
+[19-09-2023 19:39:33] Checking Create_0.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oDoor
+[19-09-2023 19:39:33] Checking Step_0.gml
+[19-09-2023 19:39:33] Checking Other_4.gml
+[19-09-2023 19:39:33] Checking oDoor.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oDoor/oDoor.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oDoor/oDoor.yy
+[19-09-2023 19:39:33] Par: "folders/Objects" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oDoor/oDoor.yy"
+[19-09-2023 19:39:33] Found Object: oDoor
+[19-09-2023 19:39:33] Checking Create_0.gml
+[19-09-2023 19:39:33] Checking Collision_oPlayer.gml
+[19-09-2023 19:39:33] Checking Alarm_1.gml
+[19-09-2023 19:39:33] Checking Alarm_0.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oGame
+[19-09-2023 19:39:33] Checking Step_2.gml
+[19-09-2023 19:39:33] Checking Step_0.gml
+[19-09-2023 19:39:33] Checking Other_4.gml
+[19-09-2023 19:39:33] Checking oGame.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oGame/oGame.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oGame/oGame.yy
+[19-09-2023 19:39:33] Par: "folders/Objects" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oGame/oGame.yy"
+[19-09-2023 19:39:33] Found Object: oGame
+[19-09-2023 19:39:33] Checking Create_0.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oGate
+[19-09-2023 19:39:33] Checking Step_0.gml
+[19-09-2023 19:39:33] Checking oGate.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oGate/oGate.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oGate/oGate.yy
+[19-09-2023 19:39:33] Par: "folders/Objects" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oGate/oGate.yy"
+[19-09-2023 19:39:33] Found Object: oGate
+[19-09-2023 19:39:33] Checking Draw_0.gml
+[19-09-2023 19:39:33] Checking Create_0.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oKunai
+[19-09-2023 19:39:33] Checking Step_0.gml
+[19-09-2023 19:39:33] Checking oKunai.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oKunai/oKunai.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oKunai/oKunai.yy
+[19-09-2023 19:39:33] Par: "folders/Objects" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oKunai/oKunai.yy"
+[19-09-2023 19:39:33] Found Object: oKunai
+[19-09-2023 19:39:33] Checking Draw_0.gml
+[19-09-2023 19:39:33] Checking Destroy_0.gml
+[19-09-2023 19:39:33] Checking Create_0.gml
+[19-09-2023 19:39:33] Checking Collision_oSpike0.gml
+[19-09-2023 19:39:33] Checking Collision_oPlayer.gml
+[19-09-2023 19:39:33] Checking Collision_oPlatform.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oPlatform
+[19-09-2023 19:39:33] Checking oPlatform.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oPlatform/oPlatform.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oPlatform/oPlatform.yy
+[19-09-2023 19:39:33] Par: "folders/Objects" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oPlatform/oPlatform.yy"
+[19-09-2023 19:39:33] Found Object: oPlatform
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oPlayer
+[19-09-2023 19:39:33] Checking Step_2.gml
+[19-09-2023 19:39:33] Checking Step_1.gml
+[19-09-2023 19:39:33] Checking Step_0.gml
+[19-09-2023 19:39:33] Checking oPlayer.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oPlayer/oPlayer.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oPlayer/oPlayer.yy
+[19-09-2023 19:39:33] Par: "folders/Objects" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oPlayer/oPlayer.yy"
+[19-09-2023 19:39:33] Found Object: oPlayer
+[19-09-2023 19:39:33] Checking Draw_0.gml
+[19-09-2023 19:39:33] Checking Create_0.gml
+[19-09-2023 19:39:33] Checking Collision_oSpike0.gml
+[19-09-2023 19:39:33] Checking Alarm_0.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oScarfPart
+[19-09-2023 19:39:33] Checking Step_2.gml
+[19-09-2023 19:39:33] Checking Step_1.gml
+[19-09-2023 19:39:33] Checking Step_0.gml
+[19-09-2023 19:39:33] Checking oScarfPart.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oScarfPart/oScarfPart.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oScarfPart/oScarfPart.yy
+[19-09-2023 19:39:33] Par: "folders/Objects" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oScarfPart/oScarfPart.yy"
+[19-09-2023 19:39:33] Found Object: oScarfPart
+[19-09-2023 19:39:33] Checking Create_0.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oScarfRoot
+[19-09-2023 19:39:33] Checking Step_2.gml
+[19-09-2023 19:39:33] Checking Step_0.gml
+[19-09-2023 19:39:33] Checking oScarfRoot.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oScarfRoot/oScarfRoot.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oScarfRoot/oScarfRoot.yy
+[19-09-2023 19:39:33] Par: "folders/Objects" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oScarfRoot/oScarfRoot.yy"
+[19-09-2023 19:39:33] Found Object: oScarfRoot
+[19-09-2023 19:39:33] Checking Create_0.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oSolid
+[19-09-2023 19:39:33] Checking oSolid.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oSolid/oSolid.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oSolid/oSolid.yy
+[19-09-2023 19:39:33] Par: "folders/Objects" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oSolid/oSolid.yy"
+[19-09-2023 19:39:33] Found Object: oSolid
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oSpike0
+[19-09-2023 19:39:33] Checking oSpike0.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oSpike0/oSpike0.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oSpike0/oSpike0.yy
+[19-09-2023 19:39:33] Par: "folders/Objects" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oSpike0/oSpike0.yy"
+[19-09-2023 19:39:33] Found Object: oSpike0
+[19-09-2023 19:39:33] Checking Create_0.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oSpikeProj
+[19-09-2023 19:39:33] Checking Step_0.gml
+[19-09-2023 19:39:33] Checking oSpikeProj.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oSpikeProj/oSpikeProj.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oSpikeProj/oSpikeProj.yy
+[19-09-2023 19:39:33] Par: "folders/Objects" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oSpikeProj/oSpikeProj.yy"
+[19-09-2023 19:39:33] Found Object: oSpikeProj
+[19-09-2023 19:39:33] Checking Create_0.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oSpikeShooterRight
+[19-09-2023 19:39:33] Checking oSpikeShooterRight.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oSpikeShooterRight/oSpikeShooterRight.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oSpikeShooterRight/oSpikeShooterRight.yy
+[19-09-2023 19:39:33] Par: "folders/Objects" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oSpikeShooterRight/oSpikeShooterRight.yy"
+[19-09-2023 19:39:33] Found Object: oSpikeShooterRight
+[19-09-2023 19:39:33] Checking Create_0.gml
+[19-09-2023 19:39:33] Checking Alarm_0.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oStart
+[19-09-2023 19:39:33] Checking Step_0.gml
+[19-09-2023 19:39:33] Checking Other_4.gml
+[19-09-2023 19:39:33] Checking oStart.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oStart/oStart.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oStart/oStart.yy
+[19-09-2023 19:39:33] Par: "folders/Objects" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/oStart/oStart.yy"
+[19-09-2023 19:39:33] Found Object: oStart
+[19-09-2023 19:39:33] Checking Create_0.gml
+[19-09-2023 19:39:33] Checking Collision_oPlayer.gml
+[19-09-2023 19:39:33] Checking Alarm_0.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/o_SharedTweener
+[19-09-2023 19:39:33] Checking Step_2.gml
+[19-09-2023 19:39:33] Checking Step_1.gml
+[19-09-2023 19:39:33] Checking o_SharedTweener.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/o_SharedTweener/o_SharedTweener.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/o_SharedTweener/o_SharedTweener.yy
+[19-09-2023 19:39:33] Par: "folders/TweenGMX/Admin" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/objects/o_SharedTweener/o_SharedTweener.yy"
+[19-09-2023 19:39:33] Found Object: o_SharedTweener
+[19-09-2023 19:39:33] Checking Other_5.gml
+[19-09-2023 19:39:33] Checking Other_4.gml
+[19-09-2023 19:39:33] Checking Other_3.gml
+[19-09-2023 19:39:33] Checking Destroy_0.gml
+[19-09-2023 19:39:33] Checking Create_0.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/options
+[19-09-2023 19:39:33] Checking windows
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/options/windows
+[19-09-2023 19:39:33] Checking operagx
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/options/operagx
+[19-09-2023 19:39:33] Checking main
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/options/main
+[19-09-2023 19:39:33] Checking mac
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/options/mac
+[19-09-2023 19:39:33] Checking linux
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/options/linux
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/options/linux
+[19-09-2023 19:39:33] Checking options_linux.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/options/linux/options_linux.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/options/linux/options_linux.yy
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/options/mac
+[19-09-2023 19:39:33] Checking options_mac.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/options/mac/options_mac.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/options/mac/options_mac.yy
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/options/main
+[19-09-2023 19:39:33] Checking options_main.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/options/main/options_main.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/options/main/options_main.yy
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/options/operagx
+[19-09-2023 19:39:33] Checking options_operagx.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/options/operagx/options_operagx.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/options/operagx/options_operagx.yy
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/options/windows
+[19-09-2023 19:39:33] Checking options_windows.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/options/windows/options_windows.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/options/windows/options_windows.yy
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/paths
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms
+[19-09-2023 19:39:33] Checking Test
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Test
+[19-09-2023 19:39:33] Checking Level5
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level5
+[19-09-2023 19:39:33] Checking Level4_3
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level4_3
+[19-09-2023 19:39:33] Checking Level4_2
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level4_2
+[19-09-2023 19:39:33] Checking Level4_1
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level4_1
+[19-09-2023 19:39:33] Checking Level4
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level4
+[19-09-2023 19:39:33] Checking Level3
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level3
+[19-09-2023 19:39:33] Checking Level2
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level2
+[19-09-2023 19:39:33] Checking Level1
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level1
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level1
+[19-09-2023 19:39:33] Checking Level1.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level1/Level1.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level1/Level1.yy
+[19-09-2023 19:39:33] Par: "folders/Rooms" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level1/Level1.yy"
+[19-09-2023 19:39:33] Found Room: Level1
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level2
+[19-09-2023 19:39:33] Checking Level2.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level2/Level2.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level2/Level2.yy
+[19-09-2023 19:39:33] Par: "folders/Rooms" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level2/Level2.yy"
+[19-09-2023 19:39:33] Found Room: Level2
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level3
+[19-09-2023 19:39:33] Checking Level3.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level3/Level3.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level3/Level3.yy
+[19-09-2023 19:39:33] Par: "folders/Rooms" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level3/Level3.yy"
+[19-09-2023 19:39:33] Found Room: Level3
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level4
+[19-09-2023 19:39:33] Checking Level4.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level4/Level4.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level4/Level4.yy
+[19-09-2023 19:39:33] Par: "folders/Rooms" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level4/Level4.yy"
+[19-09-2023 19:39:33] Found Room: Level4
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level4_1
+[19-09-2023 19:39:33] Checking Level4_1.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level4_1/Level4_1.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level4_1/Level4_1.yy
+[19-09-2023 19:39:33] Par: "folders/Rooms" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level4_1/Level4_1.yy"
+[19-09-2023 19:39:33] Found Room: Level4_1
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level4_2
+[19-09-2023 19:39:33] Checking Level4_2.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level4_2/Level4_2.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level4_2/Level4_2.yy
+[19-09-2023 19:39:33] Par: "folders/Rooms" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level4_2/Level4_2.yy"
+[19-09-2023 19:39:33] Found Room: Level4_2
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level4_3
+[19-09-2023 19:39:33] Checking Level4_3.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level4_3/Level4_3.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level4_3/Level4_3.yy
+[19-09-2023 19:39:33] Par: "folders/Rooms" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level4_3/Level4_3.yy"
+[19-09-2023 19:39:33] Found Room: Level4_3
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level5
+[19-09-2023 19:39:33] Checking Level5.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level5/Level5.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level5/Level5.yy
+[19-09-2023 19:39:33] Par: "folders/Rooms" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Level5/Level5.yy"
+[19-09-2023 19:39:33] Found Room: Level5
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Test
+[19-09-2023 19:39:33] Checking Test.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Test/Test.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Test/Test.yy
+[19-09-2023 19:39:33] Par: "folders/Rooms" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/rooms/Test/Test.yy"
+[19-09-2023 19:39:33] Found Room: Test
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts
+[19-09-2023 19:39:33] Checking TGMX_System
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_System
+[19-09-2023 19:39:33] Checking TGMX_Experimental
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_Experimental
+[19-09-2023 19:39:33] Checking TGMX_9_Settings
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_9_Settings
+[19-09-2023 19:39:33] Checking TGMX_8_SystemUtilities
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_8_SystemUtilities
+[19-09-2023 19:39:33] Checking TGMX_7_Properties
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_7_Properties
+[19-09-2023 19:39:33] Checking TGMX_6_TweenTools
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_6_TweenTools
+[19-09-2023 19:39:33] Checking TGMX_5_TweenGetSet
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_5_TweenGetSet
+[19-09-2023 19:39:33] Checking TGMX_4_TweenState
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_4_TweenState
+[19-09-2023 19:39:33] Checking TGMX_3_EventCallbacks
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_3_EventCallbacks
+[19-09-2023 19:39:33] Checking TGMX_2_EaseFunctions
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_2_EaseFunctions
+[19-09-2023 19:39:33] Checking TGMX_1_EasyTweens
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_1_EasyTweens
+[19-09-2023 19:39:33] Checking TGMX_0_MainTweens
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_0_MainTweens
+[19-09-2023 19:39:33] Checking Particle
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/Particle
+[19-09-2023 19:39:33] Checking Control
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/Control
+[19-09-2023 19:39:33] Checking Collision
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/Collision
+[19-09-2023 19:39:33] Checking Animation
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/Animation
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/Animation
+[19-09-2023 19:39:33] Checking Animation.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/Animation/Animation.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/Animation/Animation.yy
+[19-09-2023 19:39:33] Par: "folders/Scripts" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/Animation/Animation.yy"
+[19-09-2023 19:39:33] Found Script: Animation
+[19-09-2023 19:39:33] Checking Animation.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/Collision
+[19-09-2023 19:39:33] Checking Collision.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/Collision/Collision.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/Collision/Collision.yy
+[19-09-2023 19:39:33] Par: "folders/Scripts" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/Collision/Collision.yy"
+[19-09-2023 19:39:33] Found Script: Collision
+[19-09-2023 19:39:33] Checking Collision.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/Control
+[19-09-2023 19:39:33] Checking Control.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/Control/Control.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/Control/Control.yy
+[19-09-2023 19:39:33] Par: "folders/Scripts" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/Control/Control.yy"
+[19-09-2023 19:39:33] Found Script: Control
+[19-09-2023 19:39:33] Checking Control.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/Particle
+[19-09-2023 19:39:33] Checking Particle.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/Particle/Particle.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/Particle/Particle.yy
+[19-09-2023 19:39:33] Par: "folders/Scripts" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/Particle/Particle.yy"
+[19-09-2023 19:39:33] Found Script: Particle
+[19-09-2023 19:39:33] Checking Particle.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_0_MainTweens
+[19-09-2023 19:39:33] Checking TGMX_0_MainTweens.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_0_MainTweens/TGMX_0_MainTweens.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_0_MainTweens/TGMX_0_MainTweens.yy
+[19-09-2023 19:39:33] Par: "folders/TweenGMX/User" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_0_MainTweens/TGMX_0_MainTweens.yy"
+[19-09-2023 19:39:33] Found Script: TGMX_0_MainTweens
+[19-09-2023 19:39:33] Checking TGMX_0_MainTweens.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_1_EasyTweens
+[19-09-2023 19:39:33] Checking TGMX_1_EasyTweens.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_1_EasyTweens/TGMX_1_EasyTweens.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_1_EasyTweens/TGMX_1_EasyTweens.yy
+[19-09-2023 19:39:33] Par: "folders/TweenGMX/User" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_1_EasyTweens/TGMX_1_EasyTweens.yy"
+[19-09-2023 19:39:33] Found Script: TGMX_1_EasyTweens
+[19-09-2023 19:39:33] Checking TGMX_1_EasyTweens.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_2_EaseFunctions
+[19-09-2023 19:39:33] Checking TGMX_2_EaseFunctions.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_2_EaseFunctions/TGMX_2_EaseFunctions.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_2_EaseFunctions/TGMX_2_EaseFunctions.yy
+[19-09-2023 19:39:33] Par: "folders/TweenGMX/User" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_2_EaseFunctions/TGMX_2_EaseFunctions.yy"
+[19-09-2023 19:39:33] Found Script: TGMX_2_EaseFunctions
+[19-09-2023 19:39:33] Checking TGMX_2_EaseFunctions.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_3_EventCallbacks
+[19-09-2023 19:39:33] Checking TGMX_3_EventCallbacks.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_3_EventCallbacks/TGMX_3_EventCallbacks.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_3_EventCallbacks/TGMX_3_EventCallbacks.yy
+[19-09-2023 19:39:33] Par: "folders/TweenGMX/User" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_3_EventCallbacks/TGMX_3_EventCallbacks.yy"
+[19-09-2023 19:39:33] Found Script: TGMX_3_EventCallbacks
+[19-09-2023 19:39:33] Checking TGMX_3_EventCallbacks.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_4_TweenState
+[19-09-2023 19:39:33] Checking TGMX_4_TweenState.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_4_TweenState/TGMX_4_TweenState.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_4_TweenState/TGMX_4_TweenState.yy
+[19-09-2023 19:39:33] Par: "folders/TweenGMX/User" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_4_TweenState/TGMX_4_TweenState.yy"
+[19-09-2023 19:39:33] Found Script: TGMX_4_TweenState
+[19-09-2023 19:39:33] Checking TGMX_4_TweenState.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_5_TweenGetSet
+[19-09-2023 19:39:33] Checking TGMX_5_TweenGetSet.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_5_TweenGetSet/TGMX_5_TweenGetSet.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_5_TweenGetSet/TGMX_5_TweenGetSet.yy
+[19-09-2023 19:39:33] Par: "folders/TweenGMX/User" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_5_TweenGetSet/TGMX_5_TweenGetSet.yy"
+[19-09-2023 19:39:33] Found Script: TGMX_5_TweenGetSet
+[19-09-2023 19:39:33] Checking TGMX_5_TweenGetSet.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_6_TweenTools
+[19-09-2023 19:39:33] Checking TGMX_6_TweenTools.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_6_TweenTools/TGMX_6_TweenTools.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_6_TweenTools/TGMX_6_TweenTools.yy
+[19-09-2023 19:39:33] Par: "folders/TweenGMX/User" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_6_TweenTools/TGMX_6_TweenTools.yy"
+[19-09-2023 19:39:33] Found Script: TGMX_6_TweenTools
+[19-09-2023 19:39:33] Checking TGMX_6_TweenTools.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_7_Properties
+[19-09-2023 19:39:33] Checking TGMX_7_Properties.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_7_Properties/TGMX_7_Properties.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_7_Properties/TGMX_7_Properties.yy
+[19-09-2023 19:39:33] Par: "folders/TweenGMX/User" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_7_Properties/TGMX_7_Properties.yy"
+[19-09-2023 19:39:33] Found Script: TGMX_7_Properties
+[19-09-2023 19:39:33] Checking TGMX_7_Properties.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_8_SystemUtilities
+[19-09-2023 19:39:33] Checking TGMX_8_SystemUtilities.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_8_SystemUtilities/TGMX_8_SystemUtilities.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_8_SystemUtilities/TGMX_8_SystemUtilities.yy
+[19-09-2023 19:39:33] Par: "folders/TweenGMX/User" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_8_SystemUtilities/TGMX_8_SystemUtilities.yy"
+[19-09-2023 19:39:33] Found Script: TGMX_8_SystemUtilities
+[19-09-2023 19:39:33] Checking TGMX_8_SystemUtilities.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_9_Settings
+[19-09-2023 19:39:33] Checking TGMX_9_Settings.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_9_Settings/TGMX_9_Settings.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_9_Settings/TGMX_9_Settings.yy
+[19-09-2023 19:39:33] Par: "folders/TweenGMX/User" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_9_Settings/TGMX_9_Settings.yy"
+[19-09-2023 19:39:33] Found Script: TGMX_9_Settings
+[19-09-2023 19:39:33] Checking TGMX_9_Settings.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_Experimental
+[19-09-2023 19:39:33] Checking TGMX_Experimental.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_Experimental/TGMX_Experimental.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_Experimental/TGMX_Experimental.yy
+[19-09-2023 19:39:33] Par: "folders/TweenGMX/User" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_Experimental/TGMX_Experimental.yy"
+[19-09-2023 19:39:33] Found Script: TGMX_Experimental
+[19-09-2023 19:39:33] Checking TGMX_Experimental.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_System
+[19-09-2023 19:39:33] Checking TGMX_System.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_System/TGMX_System.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_System/TGMX_System.yy
+[19-09-2023 19:39:33] Par: "folders/TweenGMX/Admin" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/scripts/TGMX_System/TGMX_System.yy"
+[19-09-2023 19:39:33] Found Script: TGMX_System
+[19-09-2023 19:39:33] Checking TGMX_System.gml
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sequences
+[19-09-2023 19:39:33] Checking DoorOpening
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sequences/DoorOpening
+[19-09-2023 19:39:33] Checking DoorClosing
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sequences/DoorClosing
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sequences/DoorClosing
+[19-09-2023 19:39:33] Checking DoorClosing.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sequences/DoorClosing/DoorClosing.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sequences/DoorClosing/DoorClosing.yy
+[19-09-2023 19:39:33] Par: "folders/Sequences" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sequences/DoorClosing/DoorClosing.yy"
+[19-09-2023 19:39:33] Found Sequence: DoorClosing
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sequences/DoorOpening
+[19-09-2023 19:39:33] Checking DoorOpening.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sequences/DoorOpening/DoorOpening.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sequences/DoorOpening/DoorOpening.yy
+[19-09-2023 19:39:33] Par: "folders/Sequences" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sequences/DoorOpening/DoorOpening.yy"
+[19-09-2023 19:39:33] Found Sequence: DoorOpening
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/shaders
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds
+[19-09-2023 19:39:33] Checking soundThrow
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/soundThrow
+[19-09-2023 19:39:33] Checking SmokeBomb
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/SmokeBomb
+[19-09-2023 19:39:33] Checking jump
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/jump
+[19-09-2023 19:39:33] Checking hooksound
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/hooksound
+[19-09-2023 19:39:33] Checking Hit
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/Hit
+[19-09-2023 19:39:33] Checking Death
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/Death
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/Death
+[19-09-2023 19:39:33] Checking Death.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/Death/Death.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/Death/Death.yy
+[19-09-2023 19:39:33] Par: "folders/Sounds" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/Death/Death.yy"
+[19-09-2023 19:39:33] Found Sound: Death
+[19-09-2023 19:39:33] Checking Death.wav
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/Hit
+[19-09-2023 19:39:33] Checking Hit.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/Hit/Hit.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/Hit/Hit.yy
+[19-09-2023 19:39:33] Par: "folders/Sounds" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/Hit/Hit.yy"
+[19-09-2023 19:39:33] Found Sound: Hit
+[19-09-2023 19:39:33] Checking Hit.wav
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/hooksound
+[19-09-2023 19:39:33] Checking hooksound.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/hooksound/hooksound.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/hooksound/hooksound.yy
+[19-09-2023 19:39:33] Par: "folders/Sounds" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/hooksound/hooksound.yy"
+[19-09-2023 19:39:33] Found Sound: hooksound
+[19-09-2023 19:39:33] Checking hooksound.wav
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/jump
+[19-09-2023 19:39:33] Checking jump.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/jump/jump.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/jump/jump.yy
+[19-09-2023 19:39:33] Par: "folders/Sounds" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/jump/jump.yy"
+[19-09-2023 19:39:33] Found Sound: jump
+[19-09-2023 19:39:33] Checking jump.wav
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/SmokeBomb
+[19-09-2023 19:39:33] Checking SmokeBomb.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/SmokeBomb/SmokeBomb.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/SmokeBomb/SmokeBomb.yy
+[19-09-2023 19:39:33] Par: "folders/Sounds" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/SmokeBomb/SmokeBomb.yy"
+[19-09-2023 19:39:33] Found Sound: SmokeBomb
+[19-09-2023 19:39:33] Checking SmokeBomb.wav
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/soundThrow
+[19-09-2023 19:39:33] Checking soundThrow.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/soundThrow/soundThrow.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/soundThrow/soundThrow.yy
+[19-09-2023 19:39:33] Par: "folders/Sounds" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sounds/soundThrow/soundThrow.yy"
+[19-09-2023 19:39:33] Found Sound: soundThrow
+[19-09-2023 19:39:33] Checking soundThrow.wav
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites
+[19-09-2023 19:39:33] Checking sSpikeShooter
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sSpikeShooter
+[19-09-2023 19:39:33] Checking sSmoke
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sSmoke
+[19-09-2023 19:39:33] Checking sScarf1
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sScarf1
+[19-09-2023 19:39:33] Checking spr_Player
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Player
+[19-09-2023 19:39:33] Checking spr_Platform
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Platform
+[19-09-2023 19:39:33] Checking spr_Gate
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Gate
+[19-09-2023 19:39:33] Checking spike
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spike
+[19-09-2023 19:39:33] Checking sKunai
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sKunai
+[19-09-2023 19:39:33] Checking sDoorRight
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoorRight
+[19-09-2023 19:39:33] Checking sDoorLeft
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoorLeft
+[19-09-2023 19:39:33] Checking sDoor
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoor
+[19-09-2023 19:39:33] Checking sButtonPushed
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sButtonPushed
+[19-09-2023 19:39:33] Checking sButton
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sButton
+[19-09-2023 19:39:33] Checking sBlood
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sBlood
+[19-09-2023 19:39:33] Checking sBackground
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sBackground
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sBackground
+[19-09-2023 19:39:33] Checking sBackground.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sBackground/sBackground.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sBackground/sBackground.yy
+[19-09-2023 19:39:33] Par: "folders/Sprites" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sBackground/sBackground.yy"
+[19-09-2023 19:39:33] Found Sprite: sBackground
+[19-09-2023 19:39:33] Checking layers
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sBackground/layers
+[19-09-2023 19:39:33] Checking 81b0d09a-ec86-4ce6-8b8e-2c17e867461a.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sBackground/layers
+[19-09-2023 19:39:33] Checking 81b0d09a-ec86-4ce6-8b8e-2c17e867461a
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sBackground/layers/81b0d09a-ec86-4ce6-8b8e-2c17e867461a
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sBackground/layers/81b0d09a-ec86-4ce6-8b8e-2c17e867461a
+[19-09-2023 19:39:33] Checking 754e3a86-f649-4d4d-8b3e-9db31bc6b475.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sBlood
+[19-09-2023 19:39:33] Checking sBlood.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sBlood/sBlood.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sBlood/sBlood.yy
+[19-09-2023 19:39:33] Par: "folders/Sprites" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sBlood/sBlood.yy"
+[19-09-2023 19:39:33] Found Sprite: sBlood
+[19-09-2023 19:39:33] Checking layers
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sBlood/layers
+[19-09-2023 19:39:33] Checking 6530000c-86e4-4576-81df-9db7b8d2b1bf.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sBlood/layers
+[19-09-2023 19:39:33] Checking 6530000c-86e4-4576-81df-9db7b8d2b1bf
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sBlood/layers/6530000c-86e4-4576-81df-9db7b8d2b1bf
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sBlood/layers/6530000c-86e4-4576-81df-9db7b8d2b1bf
+[19-09-2023 19:39:33] Checking d5c383f3-0a85-40aa-afb3-289592c4113f.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sButton
+[19-09-2023 19:39:33] Checking sButton.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sButton/sButton.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sButton/sButton.yy
+[19-09-2023 19:39:33] Par: "folders/Sprites" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sButton/sButton.yy"
+[19-09-2023 19:39:33] Found Sprite: sButton
+[19-09-2023 19:39:33] Checking layers
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sButton/layers
+[19-09-2023 19:39:33] Checking f692b3d1-f701-4bd0-a3e0-1b4278097542.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sButton/layers
+[19-09-2023 19:39:33] Checking f692b3d1-f701-4bd0-a3e0-1b4278097542
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sButton/layers/f692b3d1-f701-4bd0-a3e0-1b4278097542
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sButton/layers/f692b3d1-f701-4bd0-a3e0-1b4278097542
+[19-09-2023 19:39:33] Checking 4a5b759a-5f7f-4cb0-ba50-5a400de4a0a2.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sButtonPushed
+[19-09-2023 19:39:33] Checking sButtonPushed.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sButtonPushed/sButtonPushed.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sButtonPushed/sButtonPushed.yy
+[19-09-2023 19:39:33] Par: "folders/Sprites" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sButtonPushed/sButtonPushed.yy"
+[19-09-2023 19:39:33] Found Sprite: sButtonPushed
+[19-09-2023 19:39:33] Checking layers
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sButtonPushed/layers
+[19-09-2023 19:39:33] Checking f692b3d1-f701-4bd0-a3e0-1b4278097542.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sButtonPushed/layers
+[19-09-2023 19:39:33] Checking f692b3d1-f701-4bd0-a3e0-1b4278097542
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sButtonPushed/layers/f692b3d1-f701-4bd0-a3e0-1b4278097542
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sButtonPushed/layers/f692b3d1-f701-4bd0-a3e0-1b4278097542
+[19-09-2023 19:39:33] Checking 4a5b759a-5f7f-4cb0-ba50-5a400de4a0a2.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoor
+[19-09-2023 19:39:33] Checking sDoor.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoor/sDoor.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoor/sDoor.yy
+[19-09-2023 19:39:33] Par: "folders/Sprites" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoor/sDoor.yy"
+[19-09-2023 19:39:33] Found Sprite: sDoor
+[19-09-2023 19:39:33] Checking layers
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoor/layers
+[19-09-2023 19:39:33] Checking e3cf60ec-864f-4826-8bad-80fad2c0c79a.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoor/layers
+[19-09-2023 19:39:33] Checking e3cf60ec-864f-4826-8bad-80fad2c0c79a
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoor/layers/e3cf60ec-864f-4826-8bad-80fad2c0c79a
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoor/layers/e3cf60ec-864f-4826-8bad-80fad2c0c79a
+[19-09-2023 19:39:33] Checking 21e14dff-e11f-4f28-a396-f6877dfa3164.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoorLeft
+[19-09-2023 19:39:33] Checking sDoorLeft.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoorLeft/sDoorLeft.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoorLeft/sDoorLeft.yy
+[19-09-2023 19:39:33] Par: "folders/Sprites" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoorLeft/sDoorLeft.yy"
+[19-09-2023 19:39:33] Found Sprite: sDoorLeft
+[19-09-2023 19:39:33] Checking layers
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoorLeft/layers
+[19-09-2023 19:39:33] Checking e3cf60ec-864f-4826-8bad-80fad2c0c79a.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoorLeft/layers
+[19-09-2023 19:39:33] Checking e3cf60ec-864f-4826-8bad-80fad2c0c79a
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoorLeft/layers/e3cf60ec-864f-4826-8bad-80fad2c0c79a
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoorLeft/layers/e3cf60ec-864f-4826-8bad-80fad2c0c79a
+[19-09-2023 19:39:33] Checking 21e14dff-e11f-4f28-a396-f6877dfa3164.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoorRight
+[19-09-2023 19:39:33] Checking sDoorRight.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoorRight/sDoorRight.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoorRight/sDoorRight.yy
+[19-09-2023 19:39:33] Par: "folders/Sprites" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoorRight/sDoorRight.yy"
+[19-09-2023 19:39:33] Found Sprite: sDoorRight
+[19-09-2023 19:39:33] Checking layers
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoorRight/layers
+[19-09-2023 19:39:33] Checking e3cf60ec-864f-4826-8bad-80fad2c0c79a.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoorRight/layers
+[19-09-2023 19:39:33] Checking e3cf60ec-864f-4826-8bad-80fad2c0c79a
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoorRight/layers/e3cf60ec-864f-4826-8bad-80fad2c0c79a
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sDoorRight/layers/e3cf60ec-864f-4826-8bad-80fad2c0c79a
+[19-09-2023 19:39:33] Checking 21e14dff-e11f-4f28-a396-f6877dfa3164.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sKunai
+[19-09-2023 19:39:33] Checking sKunai.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sKunai/sKunai.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sKunai/sKunai.yy
+[19-09-2023 19:39:33] Par: "folders/Sprites" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sKunai/sKunai.yy"
+[19-09-2023 19:39:33] Found Sprite: sKunai
+[19-09-2023 19:39:33] Checking layers
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sKunai/layers
+[19-09-2023 19:39:33] Checking 05746f5c-78e9-416f-8fc5-9ce2964cdf4a.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sKunai/layers
+[19-09-2023 19:39:33] Checking 05746f5c-78e9-416f-8fc5-9ce2964cdf4a
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sKunai/layers/05746f5c-78e9-416f-8fc5-9ce2964cdf4a
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sKunai/layers/05746f5c-78e9-416f-8fc5-9ce2964cdf4a
+[19-09-2023 19:39:33] Checking ae7d3b9c-9b63-4615-9158-261855358daa.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spike
+[19-09-2023 19:39:33] Checking spike.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spike/spike.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spike/spike.yy
+[19-09-2023 19:39:33] Par: "folders/Sprites" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spike/spike.yy"
+[19-09-2023 19:39:33] Found Sprite: spike
+[19-09-2023 19:39:33] Checking layers
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spike/layers
+[19-09-2023 19:39:33] Checking 2ef2f7c4-ba70-4bbc-84e7-9a2cd25b908f.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spike/layers
+[19-09-2023 19:39:33] Checking 2ef2f7c4-ba70-4bbc-84e7-9a2cd25b908f
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spike/layers/2ef2f7c4-ba70-4bbc-84e7-9a2cd25b908f
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spike/layers/2ef2f7c4-ba70-4bbc-84e7-9a2cd25b908f
+[19-09-2023 19:39:33] Checking 1ef12567-b11c-486b-9391-6172f1111bf2.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Gate
+[19-09-2023 19:39:33] Checking spr_Gate.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Gate/spr_Gate.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Gate/spr_Gate.yy
+[19-09-2023 19:39:33] Par: "folders/Sprites" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Gate/spr_Gate.yy"
+[19-09-2023 19:39:33] Found Sprite: spr_Gate
+[19-09-2023 19:39:33] Checking layers
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Gate/layers
+[19-09-2023 19:39:33] Checking 12409635-0b61-4a3f-9d00-0cc779a0b32c.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Gate/layers
+[19-09-2023 19:39:33] Checking 12409635-0b61-4a3f-9d00-0cc779a0b32c
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Gate/layers/12409635-0b61-4a3f-9d00-0cc779a0b32c
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Gate/layers/12409635-0b61-4a3f-9d00-0cc779a0b32c
+[19-09-2023 19:39:33] Checking baf47d02-50b3-42aa-953d-20c1bac27814.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Platform
+[19-09-2023 19:39:33] Checking spr_Platform.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Platform/spr_Platform.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Platform/spr_Platform.yy
+[19-09-2023 19:39:33] Par: "folders/Sprites" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Platform/spr_Platform.yy"
+[19-09-2023 19:39:33] Found Sprite: spr_Platform
+[19-09-2023 19:39:33] Checking layers
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Platform/layers
+[19-09-2023 19:39:33] Checking 12409635-0b61-4a3f-9d00-0cc779a0b32c.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Platform/layers
+[19-09-2023 19:39:33] Checking 12409635-0b61-4a3f-9d00-0cc779a0b32c
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Platform/layers/12409635-0b61-4a3f-9d00-0cc779a0b32c
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Platform/layers/12409635-0b61-4a3f-9d00-0cc779a0b32c
+[19-09-2023 19:39:33] Checking baf47d02-50b3-42aa-953d-20c1bac27814.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Player
+[19-09-2023 19:39:33] Checking spr_Player.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Player/spr_Player.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Player/spr_Player.yy
+[19-09-2023 19:39:33] Par: "folders/Sprites" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Player/spr_Player.yy"
+[19-09-2023 19:39:33] Found Sprite: spr_Player
+[19-09-2023 19:39:33] Checking layers
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Player/layers
+[19-09-2023 19:39:33] Checking 34c1db3c-7901-4d00-9953-f7964e2a1481.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Player/layers
+[19-09-2023 19:39:33] Checking 34c1db3c-7901-4d00-9953-f7964e2a1481
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Player/layers/34c1db3c-7901-4d00-9953-f7964e2a1481
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/spr_Player/layers/34c1db3c-7901-4d00-9953-f7964e2a1481
+[19-09-2023 19:39:33] Checking ac604505-64e8-4229-a4e3-6432c76956bb.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sScarf1
+[19-09-2023 19:39:33] Checking sScarf1.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sScarf1/sScarf1.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sScarf1/sScarf1.yy
+[19-09-2023 19:39:33] Par: "folders/Sprites" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sScarf1/sScarf1.yy"
+[19-09-2023 19:39:33] Found Sprite: sScarf1
+[19-09-2023 19:39:33] Checking layers
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sScarf1/layers
+[19-09-2023 19:39:33] Checking ff38e87c-42f7-4df0-b9ff-eb30a1212aa8.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sScarf1/layers
+[19-09-2023 19:39:33] Checking ff38e87c-42f7-4df0-b9ff-eb30a1212aa8
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sScarf1/layers/ff38e87c-42f7-4df0-b9ff-eb30a1212aa8
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sScarf1/layers/ff38e87c-42f7-4df0-b9ff-eb30a1212aa8
+[19-09-2023 19:39:33] Checking 8ab845bd-2905-46c7-995a-cee6fe3414db.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sSmoke
+[19-09-2023 19:39:33] Checking sSmoke.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sSmoke/sSmoke.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sSmoke/sSmoke.yy
+[19-09-2023 19:39:33] Par: "folders/Sprites" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sSmoke/sSmoke.yy"
+[19-09-2023 19:39:33] Found Sprite: sSmoke
+[19-09-2023 19:39:33] Checking layers
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sSmoke/layers
+[19-09-2023 19:39:33] Checking 46793c3e-720c-4326-94c1-f89812f509aa.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sSmoke/layers
+[19-09-2023 19:39:33] Checking 46793c3e-720c-4326-94c1-f89812f509aa
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sSmoke/layers/46793c3e-720c-4326-94c1-f89812f509aa
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sSmoke/layers/46793c3e-720c-4326-94c1-f89812f509aa
+[19-09-2023 19:39:33] Checking 166a3bee-df42-4556-8587-92a9b8aafb95.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sSpikeShooter
+[19-09-2023 19:39:33] Checking sSpikeShooter.yy
+[19-09-2023 19:39:33] Parsing C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sSpikeShooter/sSpikeShooter.yy
+[19-09-2023 19:39:33] Reading C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sSpikeShooter/sSpikeShooter.yy
+[19-09-2023 19:39:33] Par: "folders/Sprites" at dir: "C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sSpikeShooter/sSpikeShooter.yy"
+[19-09-2023 19:39:33] Found Sprite: sSpikeShooter
+[19-09-2023 19:39:33] Checking layers
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sSpikeShooter/layers
+[19-09-2023 19:39:33] Checking 12409635-0b61-4a3f-9d00-0cc779a0b32c.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sSpikeShooter/layers
+[19-09-2023 19:39:33] Checking 12409635-0b61-4a3f-9d00-0cc779a0b32c
+[19-09-2023 19:39:33] Directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sSpikeShooter/layers/12409635-0b61-4a3f-9d00-0cc779a0b32c
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/sprites/sSpikeShooter/layers/12409635-0b61-4a3f-9d00-0cc779a0b32c
+[19-09-2023 19:39:33] Checking baf47d02-50b3-42aa-953d-20c1bac27814.png
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/tilesets
+[19-09-2023 19:39:33] Current parent directory: C:/Users/aj892/Documents/GameMakerStudio2/Ninja-Platformer/timelines
+[19-09-2023 19:39:33] Moving files to trash...
+[19-09-2023 19:39:33] Files yeeted successfully!
+[19-09-2023 19:39:33] Generating YYP...
+[19-09-2023 19:39:33] Ninja-Platformer.yyp created successfully!
