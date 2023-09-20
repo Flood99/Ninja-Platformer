@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+
 dir = 1
 animation = undefined
 image_angle = 90*dir
@@ -33,3 +34,4 @@ function Fire()
 	alarm[0]  = 1
 }
 TweenAddCallback(animation,TWEEN_EV_FINISH,self,Fire)
+show_debug_message(dir)

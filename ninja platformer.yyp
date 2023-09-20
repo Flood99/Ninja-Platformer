@@ -133,10 +133,10 @@
     {"roomId":{"name":"Level4_1","path":"rooms/Level4_1/Level4_1.yy",},},
     {"roomId":{"name":"Level4_3","path":"rooms/Level4_3/Level4_3.yy",},},
     {"roomId":{"name":"Level4_2","path":"rooms/Level4_2/Level4_2.yy",},},
+    {"roomId":{"name":"Level4_311","path":"rooms/Level4_311/Level4_311.yy",},},
     {"roomId":{"name":"Level4_4","path":"rooms/Level4_4/Level4_4.yy",},},
     {"roomId":{"name":"Level5","path":"rooms/Level5/Level5.yy",},},
     {"roomId":{"name":"Test","path":"rooms/Test/Test.yy",},},
-    {"roomId":{"name":"Level4_311","path":"rooms/Level4_311/Level4_311.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [

@@ -3,6 +3,7 @@
 x = global.StartPoint.x
 y = global.StartPoint.y
 
+coyoteTime = 20
 dead = false
 move = true
 hook = true
