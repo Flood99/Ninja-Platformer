@@ -3,8 +3,10 @@
 follow = oPlayer
 ymin = 200
 yMax = 400
-cameraWidth = 1366
-cameraHeight = 768
+cameraWidth = global.cameraWidth
+cameraHeight = global.cameraHeight
+maxHeight = global.maxHeight
+minHeight = global.minHeight
 shake = false
 magnitude = 5
 time = 30

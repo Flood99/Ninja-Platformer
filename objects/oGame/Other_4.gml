@@ -7,4 +7,4 @@ hook = true
 EnablePlayerHook()
 }
 
-
+if(room = Level512) global.maxHeight = 3000

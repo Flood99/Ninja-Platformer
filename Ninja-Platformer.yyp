@@ -1,748 +1,128 @@
 {
-  resources: [
-    {
-      id: {
-        name: "EaseFastToSlow",
-        path: "animcurves/EaseFastToSlow/EaseFastToSlow.yy",
-      },
-      order: 0,
-    },
-    {
-      id: {
-        name: "EaseHeartbeat",
-        path: "animcurves/EaseHeartbeat/EaseHeartbeat.yy",
-      },
-      order: 1,
-    },
-    {
-      id: {
-        name: "EaseMidSlow",
-        path: "animcurves/EaseMidSlow/EaseMidSlow.yy",
-      },
-      order: 2,
-    },
-    {
-      id: {
-        name: "TGMX_Documentation",
-        path: "notes/TGMX_Documentation/TGMX_Documentation.yy",
-      },
-      order: 0,
-    },
-    {
-      id: {
-        name: "TGMX_Terms_of_Use",
-        path: "notes/TGMX_Terms_of_Use/TGMX_Terms_of_Use.yy",
-      },
-      order: 1,
-    },
-    {
-      id: {
-        name: "TGMX_Update_Log",
-        path: "notes/TGMX_Update_Log/TGMX_Update_Log.yy",
-      },
-      order: 2,
-    },
-    {
-      id: {
-        name: "oBlood",
-        path: "objects/oBlood/oBlood.yy",
-      },
-      order: 0,
-    },
-    {
-      id: {
-        name: "oButton",
-        path: "objects/oButton/oButton.yy",
-      },
-      order: 1,
-    },
-    {
-      id: {
-        name: "oCamera",
-        path: "objects/oCamera/oCamera.yy",
-      },
-      order: 2,
-    },
-    {
-      id: {
-        name: "oDoor",
-        path: "objects/oDoor/oDoor.yy",
-      },
-      order: 3,
-    },
-    {
-      id: {
-        name: "oGame",
-        path: "objects/oGame/oGame.yy",
-      },
-      order: 4,
-    },
-    {
-      id: {
-        name: "oGate",
-        path: "objects/oGate/oGate.yy",
-      },
-      order: 5,
-    },
-    {
-      id: {
-        name: "oKunai",
-        path: "objects/oKunai/oKunai.yy",
-      },
-      order: 6,
-    },
-    {
-      id: {
-        name: "oPlatform",
-        path: "objects/oPlatform/oPlatform.yy",
-      },
-      order: 7,
-    },
-    {
-      id: {
-        name: "oPlayer",
-        path: "objects/oPlayer/oPlayer.yy",
-      },
-      order: 8,
-    },
-    {
-      id: {
-        name: "oScarfPart",
-        path: "objects/oScarfPart/oScarfPart.yy",
-      },
-      order: 9,
-    },
-    {
-      id: {
-        name: "oScarfRoot",
-        path: "objects/oScarfRoot/oScarfRoot.yy",
-      },
-      order: 10,
-    },
-    {
-      id: {
-        name: "oSolid",
-        path: "objects/oSolid/oSolid.yy",
-      },
-      order: 11,
-    },
-    {
-      id: {
-        name: "oSpike0",
-        path: "objects/oSpike0/oSpike0.yy",
-      },
-      order: 12,
-    },
-    {
-      id: {
-        name: "oSpikeProj",
-        path: "objects/oSpikeProj/oSpikeProj.yy",
-      },
-      order: 13,
-    },
-    {
-      id: {
-        name: "oSpikeShooterRight",
-        path: "objects/oSpikeShooterRight/oSpikeShooterRight.yy",
-      },
-      order: 14,
-    },
-    {
-      id: {
-        name: "oStart",
-        path: "objects/oStart/oStart.yy",
-      },
-      order: 15,
-    },
-    {
-      id: {
-        name: "o_SharedTweener",
-        path: "objects/o_SharedTweener/o_SharedTweener.yy",
-      },
-      order: 0,
-    },
-    {
-      id: {
-        name: "Level1",
-        path: "rooms/Level1/Level1.yy",
-      },
-      order: 0,
-    },
-    {
-      id: {
-        name: "Level2",
-        path: "rooms/Level2/Level2.yy",
-      },
-      order: 1,
-    },
-    {
-      id: {
-        name: "Level3",
-        path: "rooms/Level3/Level3.yy",
-      },
-      order: 2,
-    },
-    {
-      id: {
-        name: "Level4",
-        path: "rooms/Level4/Level4.yy",
-      },
-      order: 3,
-    },
-    {
-      id: {
-        name: "Level4_1",
-        path: "rooms/Level4_1/Level4_1.yy",
-      },
-      order: 4,
-    },
-    {
-      id: {
-        name: "Level4_2",
-        path: "rooms/Level4_2/Level4_2.yy",
-      },
-      order: 5,
-    },
-    {
-      id: {
-        name: "Level4_3",
-        path: "rooms/Level4_3/Level4_3.yy",
-      },
-      order: 6,
-    },
-    {
-      id: {
-        name: "Level5",
-        path: "rooms/Level5/Level5.yy",
-      },
-      order: 7,
-    },
-    {
-      id: {
-        name: "Test",
-        path: "rooms/Test/Test.yy",
-      },
-      order: 8,
-    },
-    {
-      id: {
-        name: "Animation",
-        path: "scripts/Animation/Animation.yy",
-      },
-      order: 0,
-    },
-    {
-      id: {
-        name: "Collision",
-        path: "scripts/Collision/Collision.yy",
-      },
-      order: 1,
-    },
-    {
-      id: {
-        name: "Control",
-        path: "scripts/Control/Control.yy",
-      },
-      order: 2,
-    },
-    {
-      id: {
-        name: "Particle",
-        path: "scripts/Particle/Particle.yy",
-      },
-      order: 3,
-    },
-    {
-      id: {
-        name: "TGMX_0_MainTweens",
-        path: "scripts/TGMX_0_MainTweens/TGMX_0_MainTweens.yy",
-      },
-      order: 1,
-    },
-    {
-      id: {
-        name: "TGMX_1_EasyTweens",
-        path: "scripts/TGMX_1_EasyTweens/TGMX_1_EasyTweens.yy",
-      },
-      order: 2,
-    },
-    {
-      id: {
-        name: "TGMX_2_EaseFunctions",
-        path: "scripts/TGMX_2_EaseFunctions/TGMX_2_EaseFunctions.yy",
-      },
-      order: 3,
-    },
-    {
-      id: {
-        name: "TGMX_3_EventCallbacks",
-        path: "scripts/TGMX_3_EventCallbacks/TGMX_3_EventCallbacks.yy",
-      },
-      order: 4,
-    },
-    {
-      id: {
-        name: "TGMX_4_TweenState",
-        path: "scripts/TGMX_4_TweenState/TGMX_4_TweenState.yy",
-      },
-      order: 5,
-    },
-    {
-      id: {
-        name: "TGMX_5_TweenGetSet",
-        path: "scripts/TGMX_5_TweenGetSet/TGMX_5_TweenGetSet.yy",
-      },
-      order: 6,
-    },
-    {
-      id: {
-        name: "TGMX_6_TweenTools",
-        path: "scripts/TGMX_6_TweenTools/TGMX_6_TweenTools.yy",
-      },
-      order: 7,
-    },
-    {
-      id: {
-        name: "TGMX_7_Properties",
-        path: "scripts/TGMX_7_Properties/TGMX_7_Properties.yy",
-      },
-      order: 8,
-    },
-    {
-      id: {
-        name: "TGMX_8_SystemUtilities",
-        path: "scripts/TGMX_8_SystemUtilities/TGMX_8_SystemUtilities.yy",
-      },
-      order: 9,
-    },
-    {
-      id: {
-        name: "TGMX_9_Settings",
-        path: "scripts/TGMX_9_Settings/TGMX_9_Settings.yy",
-      },
-      order: 10,
-    },
-    {
-      id: {
-        name: "TGMX_Experimental",
-        path: "scripts/TGMX_Experimental/TGMX_Experimental.yy",
-      },
-      order: 11,
-    },
-    {
-      id: {
-        name: "TGMX_System",
-        path: "scripts/TGMX_System/TGMX_System.yy",
-      },
-      order: 1,
-    },
-    {
-      id: {
-        name: "DoorClosing",
-        path: "sequences/DoorClosing/DoorClosing.yy",
-      },
-      order: 0,
-    },
-    {
-      id: {
-        name: "DoorOpening",
-        path: "sequences/DoorOpening/DoorOpening.yy",
-      },
-      order: 1,
-    },
-    {
-      id: {
-        name: "Death",
-        path: "sounds/Death/Death.yy",
-      },
-      order: 0,
-    },
-    {
-      id: {
-        name: "Hit",
-        path: "sounds/Hit/Hit.yy",
-      },
-      order: 1,
-    },
-    {
-      id: {
-        name: "hooksound",
-        path: "sounds/hooksound/hooksound.yy",
-      },
-      order: 2,
-    },
-    {
-      id: {
-        name: "jump",
-        path: "sounds/jump/jump.yy",
-      },
-      order: 3,
-    },
-    {
-      id: {
-        name: "SmokeBomb",
-        path: "sounds/SmokeBomb/SmokeBomb.yy",
-      },
-      order: 4,
-    },
-    {
-      id: {
-        name: "soundThrow",
-        path: "sounds/soundThrow/soundThrow.yy",
-      },
-      order: 5,
-    },
-    {
-      id: {
-        name: "sBackground",
-        path: "sprites/sBackground/sBackground.yy",
-      },
-      order: 0,
-    },
-    {
-      id: {
-        name: "sBlood",
-        path: "sprites/sBlood/sBlood.yy",
-      },
-      order: 1,
-    },
-    {
-      id: {
-        name: "sButton",
-        path: "sprites/sButton/sButton.yy",
-      },
-      order: 2,
-    },
-    {
-      id: {
-        name: "sButtonPushed",
-        path: "sprites/sButtonPushed/sButtonPushed.yy",
-      },
-      order: 3,
-    },
-    {
-      id: {
-        name: "sDoor",
-        path: "sprites/sDoor/sDoor.yy",
-      },
-      order: 4,
-    },
-    {
-      id: {
-        name: "sDoorLeft",
-        path: "sprites/sDoorLeft/sDoorLeft.yy",
-      },
-      order: 5,
-    },
-    {
-      id: {
-        name: "sDoorRight",
-        path: "sprites/sDoorRight/sDoorRight.yy",
-      },
-      order: 6,
-    },
-    {
-      id: {
-        name: "sKunai",
-        path: "sprites/sKunai/sKunai.yy",
-      },
-      order: 7,
-    },
-    {
-      id: {
-        name: "spike",
-        path: "sprites/spike/spike.yy",
-      },
-      order: 8,
-    },
-    {
-      id: {
-        name: "spr_Gate",
-        path: "sprites/spr_Gate/spr_Gate.yy",
-      },
-      order: 9,
-    },
-    {
-      id: {
-        name: "spr_Platform",
-        path: "sprites/spr_Platform/spr_Platform.yy",
-      },
-      order: 10,
-    },
-    {
-      id: {
-        name: "spr_Player",
-        path: "sprites/spr_Player/spr_Player.yy",
-      },
-      order: 11,
-    },
-    {
-      id: {
-        name: "sScarf1",
-        path: "sprites/sScarf1/sScarf1.yy",
-      },
-      order: 12,
-    },
-    {
-      id: {
-        name: "sSmoke",
-        path: "sprites/sSmoke/sSmoke.yy",
-      },
-      order: 13,
-    },
-    {
-      id: {
-        name: "sSpikeShooter",
-        path: "sprites/sSpikeShooter/sSpikeShooter.yy",
-      },
-      order: 14,
-    },
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "Ninja-Platformer",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
   ],
-  Options: [
-    {
-      name: "Linux",
-      path: "options/linux/options_linux.yy",
-    },
-    {
-      name: "macOS",
-      path: "options/mac/options_mac.yy",
-    },
-    {
-      name: "Main",
-      path: "options/main/options_main.yy",
-    },
-    {
-      name: "operagx",
-      path: "options/operagx/options_operagx.yy",
-    },
-    {
-      name: "Windows",
-      path: "options/windows/options_windows.yy",
-    },
-  ],
-  isDnDProject: false,
-  isEcma: false,
-  tutorialPath: "",
-  configs: {
-    name: "Default",
-    children: [],
+  "configs": {
+    "children": [],
+    "name": "Default",
   },
-  RoomOrderNodes: [
-    {
-      roomId: {
-        name: "Level1",
-        path: "rooms/Level1/Level1.yy",
-      },
-    },
-    {
-      roomId: {
-        name: "Level2",
-        path: "rooms/Level2/Level2.yy",
-      },
-    },
-    {
-      roomId: {
-        name: "Level3",
-        path: "rooms/Level3/Level3.yy",
-      },
-    },
-    {
-      roomId: {
-        name: "Level4",
-        path: "rooms/Level4/Level4.yy",
-      },
-    },
-    {
-      roomId: {
-        name: "Level4_1",
-        path: "rooms/Level4_1/Level4_1.yy",
-      },
-    },
-    {
-      roomId: {
-        name: "Level4_2",
-        path: "rooms/Level4_2/Level4_2.yy",
-      },
-    },
-    {
-      roomId: {
-        name: "Level4_3",
-        path: "rooms/Level4_3/Level4_3.yy",
-      },
-    },
-    {
-      roomId: {
-        name: "Level5",
-        path: "rooms/Level5/Level5.yy",
-      },
-    },
-    {
-      roomId: {
-        name: "Test",
-        path: "rooms/Test/Test.yy",
-      },
-    },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sequences","folderPath":"folders/Sequences.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"TweenGMX","folderPath":"folders/TweenGMX.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Admin","folderPath":"folders/TweenGMX/Admin.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Docs","folderPath":"folders/TweenGMX/Docs.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"User","folderPath":"folders/TweenGMX/User.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Curves","folderPath":"folders/TweenGMX/User/Curves.yy",},
   ],
-  Folders: [
-    {
-      folderPath: "folders/TweenGMX.yy",
-      order: 0,
-      resourceVersion: "",
-      name: "TweenGMX",
-      tags: [],
-      resourceType: "GMFolder",
-    },
-    {
-      folderPath: "folders/TweenGMX/User.yy",
-      order: 0,
-      resourceVersion: "",
-      name: "User",
-      tags: [],
-      resourceType: "GMFolder",
-    },
-    {
-      folderPath: "folders/TweenGMX/User/Curves.yy",
-      order: 0,
-      resourceVersion: "",
-      name: "Curves",
-      tags: [],
-      resourceType: "GMFolder",
-    },
-    {
-      folderPath: "folders/TweenGMX/Docs.yy",
-      order: 1,
-      resourceVersion: "",
-      name: "Docs",
-      tags: [],
-      resourceType: "GMFolder",
-    },
-    {
-      folderPath: "folders/Objects.yy",
-      order: 1,
-      resourceVersion: "",
-      name: "Objects",
-      tags: [],
-      resourceType: "GMFolder",
-    },
-    {
-      folderPath: "folders/TweenGMX/Admin.yy",
-      order: 2,
-      resourceVersion: "",
-      name: "Admin",
-      tags: [],
-      resourceType: "GMFolder",
-    },
-    {
-      folderPath: "folders/Rooms.yy",
-      order: 2,
-      resourceVersion: "",
-      name: "Rooms",
-      tags: [],
-      resourceType: "GMFolder",
-    },
-    {
-      folderPath: "folders/Scripts.yy",
-      order: 3,
-      resourceVersion: "",
-      name: "Scripts",
-      tags: [],
-      resourceType: "GMFolder",
-    },
-    {
-      folderPath: "folders/Sequences.yy",
-      order: 4,
-      resourceVersion: "",
-      name: "Sequences",
-      tags: [],
-      resourceType: "GMFolder",
-    },
-    {
-      folderPath: "folders/Sounds.yy",
-      order: 5,
-      resourceVersion: "",
-      name: "Sounds",
-      tags: [],
-      resourceType: "GMFolder",
-    },
-    {
-      folderPath: "folders/Sprites.yy",
-      order: 6,
-      resourceVersion: "",
-      name: "Sprites",
-      tags: [],
-      resourceType: "GMFolder",
-    },
+  "IncludedFiles": [
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"spike.png","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"sPlayer.png","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Sprite-0001.aseprite","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Sprite-0003.aseprite","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Sprite-0004.aseprite","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Sprite-0005.aseprite","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Sprite-000y.aseprite","CopyToMask":-1,"filePath":"datafiles",},
   ],
-  AudioGroups: [
-    {
-      targets: -1,
-      resourceVersion: "",
-      name: "audiogroup_default",
-      resourceType: "GMAudioGroup",
-    },
-  ],
-  TextureGroups: [
-    {
-      isScaled: true,
-      autocrop: true,
-      border: 2,
-      mipsToGenerate: 0,
-      groupParent: null,
-      targets: -1,
-      resourceVersion: "",
-      name: "Default",
-      resourceType: "GMTextureGroup",
-    },
-  ],
-  IncludedFiles: [
-    {
-      CopyToMask: -1,
-      filePath: "datafiles",
-      name: "Sprite-000y.aseprite",
-      resourceType: "GMIncludedFile",
-    },
-    {
-      CopyToMask: -1,
-      filePath: "datafiles",
-      name: "Sprite-0005.aseprite",
-      resourceType: "GMIncludedFile",
-    },
-    {
-      CopyToMask: -1,
-      filePath: "datafiles",
-      name: "Sprite-0004.aseprite",
-      resourceType: "GMIncludedFile",
-    },
-    {
-      CopyToMask: -1,
-      filePath: "datafiles",
-      name: "Sprite-0003.aseprite",
-      resourceType: "GMIncludedFile",
-    },
-    {
-      CopyToMask: -1,
-      filePath: "datafiles",
-      name: "Sprite-0001.aseprite",
-      resourceType: "GMIncludedFile",
-    },
-    {
-      CopyToMask: -1,
-      filePath: "datafiles",
-      name: "sPlayer.png",
-      resourceType: "GMIncludedFile",
-    },
-    {
-      CopyToMask: -1,
-      filePath: "datafiles",
-      name: "spike.png",
-      resourceType: "GMIncludedFile",
-    },
-  ],
-  MetaData: {
-    IDEVersion: "",
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.8.0.98",
   },
-  resourceVersion: "",
-  name: "Ninja-Platformer",
-  tags: [],
-  resourceType: "GMProject",
+  "resources": [
+    {"id":{"name":"EaseFastToSlow","path":"animcurves/EaseFastToSlow/EaseFastToSlow.yy",},},
+    {"id":{"name":"EaseHeartbeat","path":"animcurves/EaseHeartbeat/EaseHeartbeat.yy",},},
+    {"id":{"name":"EaseMidSlow","path":"animcurves/EaseMidSlow/EaseMidSlow.yy",},},
+    {"id":{"name":"TGMX_Documentation","path":"notes/TGMX_Documentation/TGMX_Documentation.yy",},},
+    {"id":{"name":"TGMX_Terms_of_Use","path":"notes/TGMX_Terms_of_Use/TGMX_Terms_of_Use.yy",},},
+    {"id":{"name":"TGMX_Update_Log","path":"notes/TGMX_Update_Log/TGMX_Update_Log.yy",},},
+    {"id":{"name":"oBlood","path":"objects/oBlood/oBlood.yy",},},
+    {"id":{"name":"oButton","path":"objects/oButton/oButton.yy",},},
+    {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
+    {"id":{"name":"oDoor","path":"objects/oDoor/oDoor.yy",},},
+    {"id":{"name":"oGame","path":"objects/oGame/oGame.yy",},},
+    {"id":{"name":"oGate","path":"objects/oGate/oGate.yy",},},
+    {"id":{"name":"oKunai","path":"objects/oKunai/oKunai.yy",},},
+    {"id":{"name":"oPlatform","path":"objects/oPlatform/oPlatform.yy",},},
+    {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
+    {"id":{"name":"oScarfPart","path":"objects/oScarfPart/oScarfPart.yy",},},
+    {"id":{"name":"oScarfRoot","path":"objects/oScarfRoot/oScarfRoot.yy",},},
+    {"id":{"name":"oSolid","path":"objects/oSolid/oSolid.yy",},},
+    {"id":{"name":"oSpike0","path":"objects/oSpike0/oSpike0.yy",},},
+    {"id":{"name":"oSpikeProj","path":"objects/oSpikeProj/oSpikeProj.yy",},},
+    {"id":{"name":"oSpikeShooterRight","path":"objects/oSpikeShooterRight/oSpikeShooterRight.yy",},},
+    {"id":{"name":"oStart","path":"objects/oStart/oStart.yy",},},
+    {"id":{"name":"o_SharedTweener","path":"objects/o_SharedTweener/o_SharedTweener.yy",},},
+    {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
+    {"id":{"name":"Level2","path":"rooms/Level2/Level2.yy",},},
+    {"id":{"name":"Level3","path":"rooms/Level3/Level3.yy",},},
+    {"id":{"name":"Level4","path":"rooms/Level4/Level4.yy",},},
+    {"id":{"name":"Level4_1","path":"rooms/Level4_1/Level4_1.yy",},},
+    {"id":{"name":"Level4_2","path":"rooms/Level4_2/Level4_2.yy",},},
+    {"id":{"name":"Level4_3","path":"rooms/Level4_3/Level4_3.yy",},},
+    {"id":{"name":"Level5","path":"rooms/Level5/Level5.yy",},},
+    {"id":{"name":"Test","path":"rooms/Test/Test.yy",},},
+    {"id":{"name":"Animation","path":"scripts/Animation/Animation.yy",},},
+    {"id":{"name":"Collision","path":"scripts/Collision/Collision.yy",},},
+    {"id":{"name":"Control","path":"scripts/Control/Control.yy",},},
+    {"id":{"name":"Particle","path":"scripts/Particle/Particle.yy",},},
+    {"id":{"name":"TGMX_0_MainTweens","path":"scripts/TGMX_0_MainTweens/TGMX_0_MainTweens.yy",},},
+    {"id":{"name":"TGMX_1_EasyTweens","path":"scripts/TGMX_1_EasyTweens/TGMX_1_EasyTweens.yy",},},
+    {"id":{"name":"TGMX_2_EaseFunctions","path":"scripts/TGMX_2_EaseFunctions/TGMX_2_EaseFunctions.yy",},},
+    {"id":{"name":"TGMX_3_EventCallbacks","path":"scripts/TGMX_3_EventCallbacks/TGMX_3_EventCallbacks.yy",},},
+    {"id":{"name":"TGMX_4_TweenState","path":"scripts/TGMX_4_TweenState/TGMX_4_TweenState.yy",},},
+    {"id":{"name":"TGMX_5_TweenGetSet","path":"scripts/TGMX_5_TweenGetSet/TGMX_5_TweenGetSet.yy",},},
+    {"id":{"name":"TGMX_6_TweenTools","path":"scripts/TGMX_6_TweenTools/TGMX_6_TweenTools.yy",},},
+    {"id":{"name":"TGMX_7_Properties","path":"scripts/TGMX_7_Properties/TGMX_7_Properties.yy",},},
+    {"id":{"name":"TGMX_8_SystemUtilities","path":"scripts/TGMX_8_SystemUtilities/TGMX_8_SystemUtilities.yy",},},
+    {"id":{"name":"TGMX_9_Settings","path":"scripts/TGMX_9_Settings/TGMX_9_Settings.yy",},},
+    {"id":{"name":"TGMX_Experimental","path":"scripts/TGMX_Experimental/TGMX_Experimental.yy",},},
+    {"id":{"name":"TGMX_System","path":"scripts/TGMX_System/TGMX_System.yy",},},
+    {"id":{"name":"DoorClosing","path":"sequences/DoorClosing/DoorClosing.yy",},},
+    {"id":{"name":"DoorOpening","path":"sequences/DoorOpening/DoorOpening.yy",},},
+    {"id":{"name":"Death","path":"sounds/Death/Death.yy",},},
+    {"id":{"name":"Hit","path":"sounds/Hit/Hit.yy",},},
+    {"id":{"name":"hooksound","path":"sounds/hooksound/hooksound.yy",},},
+    {"id":{"name":"jump","path":"sounds/jump/jump.yy",},},
+    {"id":{"name":"SmokeBomb","path":"sounds/SmokeBomb/SmokeBomb.yy",},},
+    {"id":{"name":"soundThrow","path":"sounds/soundThrow/soundThrow.yy",},},
+    {"id":{"name":"sBackground","path":"sprites/sBackground/sBackground.yy",},},
+    {"id":{"name":"sBlood","path":"sprites/sBlood/sBlood.yy",},},
+    {"id":{"name":"sButton","path":"sprites/sButton/sButton.yy",},},
+    {"id":{"name":"sButtonPushed","path":"sprites/sButtonPushed/sButtonPushed.yy",},},
+    {"id":{"name":"sDoor","path":"sprites/sDoor/sDoor.yy",},},
+    {"id":{"name":"sDoorLeft","path":"sprites/sDoorLeft/sDoorLeft.yy",},},
+    {"id":{"name":"sDoorRight","path":"sprites/sDoorRight/sDoorRight.yy",},},
+    {"id":{"name":"sKunai","path":"sprites/sKunai/sKunai.yy",},},
+    {"id":{"name":"spike","path":"sprites/spike/spike.yy",},},
+    {"id":{"name":"spr_Gate","path":"sprites/spr_Gate/spr_Gate.yy",},},
+    {"id":{"name":"spr_Platform","path":"sprites/spr_Platform/spr_Platform.yy",},},
+    {"id":{"name":"spr_Player","path":"sprites/spr_Player/spr_Player.yy",},},
+    {"id":{"name":"sScarf1","path":"sprites/sScarf1/sScarf1.yy",},},
+    {"id":{"name":"sSmoke","path":"sprites/sSmoke/sSmoke.yy",},},
+    {"id":{"name":"sSpikeShooter","path":"sprites/sSpikeShooter/sSpikeShooter.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
+    {"roomId":{"name":"Level2","path":"rooms/Level2/Level2.yy",},},
+    {"roomId":{"name":"Level3","path":"rooms/Level3/Level3.yy",},},
+    {"roomId":{"name":"Level4","path":"rooms/Level4/Level4.yy",},},
+    {"roomId":{"name":"Level4_1","path":"rooms/Level4_1/Level4_1.yy",},},
+    {"roomId":{"name":"Level4_2","path":"rooms/Level4_2/Level4_2.yy",},},
+    {"roomId":{"name":"Level4_3","path":"rooms/Level4_3/Level4_3.yy",},},
+    {"roomId":{"name":"Level5","path":"rooms/Level5/Level5.yy",},},
+    {"roomId":{"name":"Test","path":"rooms/Test/Test.yy",},},
+  ],
+  "templateType": null,
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
 }

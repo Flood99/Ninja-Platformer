@@ -23,3 +23,9 @@ part_type_alpha2(global.partSmoke2,1,0)
 
 
 global.StartPoint = noone
+
+
+global.cameraWidth = 1366
+global.cameraHeight = 768
+global.maxHeight = 400
+global.minHeight = 200

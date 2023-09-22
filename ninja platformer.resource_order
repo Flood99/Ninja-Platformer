@@ -70,6 +70,7 @@
     {"name":"KnifeSound","order":6,"path":"sounds/KnifeSound/KnifeSound.yy",},
     {"name":"sDoor","order":5,"path":"sprites/sDoor/sDoor.yy",},
     {"name":"hooksound","order":2,"path":"sounds/hooksound/hooksound.yy",},
+    {"name":"Level512","order":14,"path":"rooms/Level512/Level512.yy",},
     {"name":"Level4_2","order":11,"path":"rooms/Level4_2/Level4_2.yy",},
     {"name":"TGMX_0_MainTweens","order":2,"path":"scripts/TGMX_0_MainTweens/TGMX_0_MainTweens.yy",},
     {"name":"TGMX_Terms_of_Use","order":1,"path":"notes/TGMX_Terms_of_Use/TGMX_Terms_of_Use.yy",},
