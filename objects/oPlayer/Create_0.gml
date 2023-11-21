@@ -48,7 +48,7 @@ state = STATE.GROUNDED
 
 //debug tool setup
 
-//
+/*
 yy = ref_create(self,"y_vel")
 xx = ref_create(self,"x_vel")
 dbg_state = ref_create(self,"state")

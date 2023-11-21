@@ -32,6 +32,7 @@
     {"name":"sScarf1","order":4,"path":"sprites/sScarf1/sScarf1.yy",},
     {"name":"TGMX_3_EventCallbacks","order":5,"path":"scripts/TGMX_3_EventCallbacks/TGMX_3_EventCallbacks.yy",},
     {"name":"TGMX_8_SystemUtilities","order":10,"path":"scripts/TGMX_8_SystemUtilities/TGMX_8_SystemUtilities.yy",},
+    {"name":"oText","order":17,"path":"objects/oText/oText.yy",},
     {"name":"oGame","order":4,"path":"objects/oGame/oGame.yy",},
     {"name":"sDoorRight","order":8,"path":"sprites/sDoorRight/sDoorRight.yy",},
     {"name":"oSpikeShooterRight","order":14,"path":"objects/oSpikeShooterRight/oSpikeShooterRight.yy",},

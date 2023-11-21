@@ -22,7 +22,6 @@
     {"name":"inst_3CC55760","path":"rooms/Level1/Level1.yy",},
     {"name":"inst_492AD7F8","path":"rooms/Level1/Level1.yy",},
     {"name":"inst_216EFE53","path":"rooms/Level1/Level1.yy",},
-    {"name":"inst_6DE37000","path":"rooms/Level1/Level1.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -50,11 +49,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_492AD7F8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oPlatform","path":"objects/oPlatform/oPlatform.yy",},"properties":[],"rotation":0.0,"scaleX":3.0,"scaleY":1.0,"x":832.0,"y":448.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_216EFE53","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oPlatform","path":"objects/oPlatform/oPlatform.yy",},"properties":[],"rotation":0.0,"scaleX":2.5,"scaleY":1.0,"x":608.0,"y":576.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
-    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Behind","depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6DE37000","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oSpikeShooterRight","path":"objects/oSpikeShooterRight/oSpikeShooterRight.yy",},"properties":[
-            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"oSpikeShooterRight","path":"objects/oSpikeShooterRight/oSpikeShooterRight.yy",},"propertyId":{"name":"dir","path":"objects/oSpikeShooterRight/oSpikeShooterRight.yy",},"value":"2",},
-          ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":768.0,"y":576.0,},
-      ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
+    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Behind","depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4287202433,"depth":600,"effectEnabled":true,"effectType":"none","gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "parent": {
