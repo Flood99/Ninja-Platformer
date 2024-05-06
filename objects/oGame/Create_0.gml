@@ -2,7 +2,7 @@
 // You can write your code in this editor
 global.won = false
 
-hook = false
+
 global.partSystem = part_system_create_layer("Particles",true)
 
 global.partSmoke = part_type_create()

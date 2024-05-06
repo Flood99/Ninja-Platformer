@@ -3,6 +3,7 @@
 
 
 audio_play_sound(KnifeSound,2,false,0.5)
-instance_create_layer(x,y,"Behind",oSpikeProj)
+var _spike = instance_create_layer(x,y,"Behind",oSpikeProj,{dir: other.dir})
+
 
 alarm[0] = cooldown

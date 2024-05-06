@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-dir = 1
+
 animation = undefined
 image_angle = 90*dir
 direction = image_angle +90

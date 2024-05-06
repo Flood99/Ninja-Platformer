@@ -1,9 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
- 
+global.won = true
 
 
 
 
-alarm[0] = cooldown
